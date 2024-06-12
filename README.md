@@ -1,5 +1,4 @@
-# alx-headphones
-![alx logo](https://www.alxafrica.com/wp-content/uploads/2022/12/logo-white.svg)
+# alu-headphones
 > Implement a design from scratch
 
 ## Description
@@ -17,5 +16,4 @@ You won't have a lot of instructions, you are free to implement it the way that 
 * Simple CSS selectors.
 * Simple HTML structure.
 
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) 
+
